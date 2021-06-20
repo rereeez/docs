@@ -5,5 +5,6 @@
   "gulp.autoDetect": "off",
   "npm.autoDetect": "off",
   "git.ignoreSubmodules": true,
-  "git.detectSubmodules": false
+  "git.detectSubmodules": false,
+  "terminal.integrated.scrollback": 1000000000
 }
